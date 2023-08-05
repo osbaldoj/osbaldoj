@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osbaldoj
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Game dev, Unity and JavaScript
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything I can
 - 📫 How to reach me ...
