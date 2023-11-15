@@ -15,7 +15,7 @@
 
 <h3>Play my latest tower defense demo</h3>
 <p>
-  <a href="https://osbaldoj.itch.io/super-tower-defense" target="_blank"><img alt="steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="https://store.steampowered.com/app/2665640/Invasion_Tales_of_Tower_Defense/" target="_blank"><img alt="steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://osbaldoj.itch.io/super-tower-defense" target="_blank"><img alt="itchio" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
   <a href="https://osbaldoj.itch.io/super-tower-defense" target="_blank"><img alt="playstore" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
   <a href="https://osbaldoj.itch.io/super-tower-defense" target="_blank"><img alt="appstore" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
